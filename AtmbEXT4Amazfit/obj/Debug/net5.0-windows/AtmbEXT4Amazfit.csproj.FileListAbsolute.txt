@@ -1,0 +1,12 @@
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\bin\Debug\net5.0-windows\AtmbEXT4Amazfit.deps.json
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\bin\Debug\net5.0-windows\AtmbEXT4Amazfit.dll
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\bin\Debug\net5.0-windows\ref\AtmbEXT4Amazfit.dll
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\bin\Debug\net5.0-windows\AtmbEXT4Amazfit.pdb
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.csproj.AssemblyReference.cache
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.AssemblyInfoInputs.cache
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.AssemblyInfo.cs
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.csproj.CoreCompileInputs.cache
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.dll
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\ref\AtmbEXT4Amazfit.dll
+C:\Users\zicai\Documents\GitHub\AtmbEXT4Amazfit\AtmbEXT4Amazfit\obj\Debug\net5.0-windows\AtmbEXT4Amazfit.pdb
